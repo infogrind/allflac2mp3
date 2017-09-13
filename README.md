@@ -14,7 +14,7 @@ Prerequisites:
 
 Exact minimum versions are not known. The only requirements are, however, that
 `flac` supports the options `-c` (write to stdout) and `-d` (decode – any
-verysion should have this), and that `lame` supports the `--preset standard` option.
+version should have this), and that `lame` supports the `--preset standard` option.
 
 ## Options
 
